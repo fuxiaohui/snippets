@@ -1,13 +1,12 @@
 // UITableViewDelegate
-// Placeholders for required UITableViewDelegate protocol methods.
+// Placeholders for required UITableViewDelegate protocol methods
 //
 // IDECodeSnippetCompletionPrefix: tvdel
-// IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: 4E041FB2-AB0D-4249-9658-141289641F6B
+// IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetIdentifier: 4FF30D6A-A9F5-48DC-B990-291C195A351A
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-
 #pragma mark - UITableViewDelegate
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
